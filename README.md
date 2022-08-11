@@ -12,6 +12,8 @@ Tips:
 5. s.strip() = remove whitespace
 
 
+
+
             import string
 
             def panAnagram(s):
