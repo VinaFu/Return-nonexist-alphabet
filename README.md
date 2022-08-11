@@ -4,6 +4,13 @@ Change the input into lower case
 If all the alphabet exist, return NULL
 Or print out the missing letters
 
+Tips:
+1. "".join(..) = list to string
+2. sorted(..) = order
+3. set(..) = remove repetitive objects
+4. s.lower() = to lower case
+5. s.strip() = remove whitespace
+
 
       import string
 
